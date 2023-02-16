@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jonathan, fullstack developer with 2 years of experience, based in Paris.
+
+My Github is mostly private (I know it's baaad... one day I will clean all my old repos 👨‍🎓), but in the mean time, you can find below a few real projects I did for clients these last few months 🚀:
+
+- [Atelier Tribu de Paris](https://atelier.tribudeparis.fr) > NextJS, Ruby on Rails, Strapi CMS (Docker)
+- [Atelier Musée Chana Orloff](https://chana-orloff.org) > NextJS, Strapi CMS (Docker)
+- [Monk la Taverne de Cluny](https://monklatavernedecluny.com) > NextJS, Strapi CMS (Docker)
+
+Feel free to reach out!
+
 <!--
 **justmanovic/justmanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
